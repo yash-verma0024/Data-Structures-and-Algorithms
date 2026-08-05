@@ -35,7 +35,6 @@ Each solution is written with an emphasis on:
 
 # 🎯 Goals
 
-* Solve **500+ LeetCode problems**
 * Strengthen algorithmic thinking
 * Master core Data Structures
 * Improve coding speed and accuracy
@@ -53,24 +52,6 @@ Each solution is written with an emphasis on:
 # 🌐 Primary Platform
 
 * 🟧 **LeetCode**
-
----
-
-# 📌 Naming Convention
-
-Each solution is uploaded directly using the LeetCode problem number and title.
-
-Examples:
-
-```text
-1. Two Sum.py
-20. Valid Parentheses.py
-41. First Missing Positive.py
-121. Best Time to Buy and Sell Stock.py
-704. Binary Search.py
-```
-
-This makes it easy to locate problems by their official LeetCode numbering.
 
 ---
 
@@ -114,7 +95,7 @@ Every solution aims to be:
 * ✔ Correct
 * ✔ Efficient
 * ✔ Readable
-* ✔ Optimized
+* ✔ Both Brute Solution as well as Optimized Solution
 * ✔ Easy to understand
 
 Whenever possible, I focus on writing solutions with optimal **Time Complexity** and **Space Complexity**.
